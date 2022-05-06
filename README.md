@@ -71,7 +71,6 @@ ggplot(top_companies_df, aes (x = company, y = n)) +
         ylab(label= "Number of Complaints") 
  
 ```
-color = c("#eb8060", "#b9e38d", "#a1e9f0", "#d9b1f0", fill = "red", "blue" , "yellow"))
 
 ```{r}
 #Here we're organizing the most common/frequently cited type of issuee within the complaints dataset.
